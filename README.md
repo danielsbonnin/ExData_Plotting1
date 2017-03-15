@@ -1,3 +1,14 @@
+## Daniel Bonnin Submission
+### Submitted: plot1.png
+![plot1](plot1.png)
+### Submitted: plot2.png
+![plot2](plot2.png)
+### Submitted: plot3.png
+![plot3](plot3.png)
+### Submitted: plot4.png
+![plot4](plot4.png)
+
+
 ## Introduction
 
 This assignment uses data from
@@ -35,6 +46,25 @@ web site</a>:
 
 ## Loading the data
 
+### Plot 1
+
+
+![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+
+
+### Plot 2
+
+![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+
+
+### Plot 3
+
+![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+
+
+### Plot 4
+
+![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
 
 
